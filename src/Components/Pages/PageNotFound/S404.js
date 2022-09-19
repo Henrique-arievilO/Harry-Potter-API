@@ -11,6 +11,7 @@ export const Container = styled.main`
     background-image: url(${Background});
     background-size: cover;
     background-position: center;
+    color: #000;
     filter: saturate(.6);
 
     @media only screen and (min-width: 768px) and (max-width: 1279px){

@@ -41,9 +41,9 @@ export const Card = styled.li`
     }
 
     @media only screen and (min-width: 320px) and (max-width: 767px){
-        width: 20rem;
+        width: 15rem;
         height: 25rem;
-        margin: 2rem 0;
+        margin: 2rem auto;
     }
 `
 export const Name = styled.h2`
@@ -59,12 +59,12 @@ export const Wand = styled.h3`
 `
 export const Figure = styled.figure`
     width: 15rem;
-    height: 18rem;
+    height: 15rem;
     box-sizing: border-box;
 `
 export const Image = styled.img`
     width: 15rem;
-    height: 18rem;
+    height: 15rem;
     object-fit: cover;
     object-position: top;
 `

@@ -23,10 +23,8 @@ export default function Staff() {
           <Box>
             <Name>{item.name}</Name>
             <Data>Specie: {item.species}</Data>
-            <Data>Gender: {item.gender}</Data>
             <Data>House: {item.house}</Data>
             <Data>Patronus: {item.patronus}</Data>
-            <Data>Ancestry: {item.ancestry}</Data>
             <Wand>Wand</Wand>
             <Data>{item.wand.wood} - {item.wand.core}</Data>
           </Box>

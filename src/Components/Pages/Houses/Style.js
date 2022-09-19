@@ -75,16 +75,16 @@ export const Figure = styled.figure`
     display: flex;
     justify-content: center;
     align-items: center;
-`
+    `
 export const Image = styled.img`
     width: 12rem;
     height: 15rem;
     object-fit: contain;
     object-position: top;
-    margin-right: 10px;
+    margin-right: 5px;
 
     @media only screen and (min-width: 320px) and (max-width: 767px){
-        margin-right: 20px;
+        margin-left: 50px;
     }
 `
 export const Box = styled.div`
