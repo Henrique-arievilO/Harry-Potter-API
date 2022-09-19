@@ -36,7 +36,7 @@ export const Li = styled.li`
     font-family: 'Cinzel Decorative', cursive;
     font-weight: normal;
     letter-spacing: 3px;
-    font-size: 1.5rem;
+    font-size: 1.2rem;
     width: max-content;
     color: #9c8440;
     width: 100%;
