@@ -20,7 +20,7 @@ export const Header = styled.header`
     }
 `
 export const Title = styled.h1`
-    font-family: 'Harry Potter', sans-serif;
+    font-family: 'Cinzel Decorative', cursive;
     font-weight: normal;
     font-size: 2rem;
     color: #9c8440;

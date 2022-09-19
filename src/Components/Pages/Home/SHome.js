@@ -3,7 +3,7 @@ import Background from "../../../assets/home-wallpaper.jpg"
 
 export const Container = styled.main`
     width: 100%;
-    height: 85vh;
+    height: 82vh;
     display: flex;
     justify-content: space-evenly;
     align-items: center;
@@ -23,7 +23,7 @@ export const Container = styled.main`
     }
 `
 export const Title = styled.h1`
-    font-family: 'Harry Potter', sans-serif;
+    font-family: 'Cinzel Decorative', cursive;
     font-weight: normal;
     font-size: 3rem;
     color: #9c8440;

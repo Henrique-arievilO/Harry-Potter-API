@@ -33,7 +33,7 @@ export const Li = styled.li`
     }
 
     a{
-        font-family: 'Harry Potter', sans-serif;
+    font-family: 'Cinzel Decorative', cursive;
     font-weight: normal;
     letter-spacing: 3px;
     font-size: 1.5rem;
