@@ -18,7 +18,7 @@ export const Container = styled.main`
     }
 
     @media only screen and (min-width: 320px) and (max-width: 767px){
-        height: 73vh;
+        height: 75vh;
     }
 `
 export const Title = styled.h1`
@@ -82,5 +82,6 @@ export const Text = styled.p`
 
     @media only screen and (min-width: 320px) and (max-width: 767px){
         font-size: 1rem;
+        width: 75%
     }
 `

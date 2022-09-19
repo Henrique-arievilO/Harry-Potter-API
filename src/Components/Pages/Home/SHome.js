@@ -18,7 +18,7 @@ export const Container = styled.main`
     }
 
     @media only screen and (min-width: 320px) and (max-width: 767px){
-        height: 65vh;
+        height: 75vh;
         text-align: center;
     }
 `

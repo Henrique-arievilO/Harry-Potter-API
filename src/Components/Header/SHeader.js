@@ -15,7 +15,7 @@ export const Header = styled.header`
     }
     @media only screen and (min-width: 320px) and (max-width: 767px){
         display: block;
-        height: 25vh;
+        height: 15vh;
         text-align: center;
     }
 `

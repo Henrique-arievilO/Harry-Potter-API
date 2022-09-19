@@ -18,7 +18,7 @@ export const Navigation = styled.ul`
 `
 export const Li = styled.li`
     width: 33%;
-    height: 2.5rem;
+    height: 2rem;
     color: #000;
     text-align: center;
     display: flex;
@@ -26,17 +26,11 @@ export const Li = styled.li`
     align-items: center;
     transition: .3s all;
 
-
-    &:hover{
-        border-left: #9c8440 2px solid;
-        border-right: #9c8440 2px solid;
-    }
-
     a{
     font-family: 'Cinzel Decorative', cursive;
     font-weight: normal;
     letter-spacing: 3px;
-    font-size: 1.2rem;
+    font-size: .8rem;
     width: max-content;
     color: #9c8440;
     width: 100%;
@@ -45,7 +39,6 @@ export const Li = styled.li`
 
     &:hover{
         text-decoration: underline;
-        transform: scale(1.1);
     }
 
     @media only screen and (min-width: 320px) and (max-width: 767px){
